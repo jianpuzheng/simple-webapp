@@ -9,7 +9,7 @@ def main():
 
 @app.route('/how are you')
 def hello():
-    return 'I am good, how aboutuser@PC12-SALLE1:~/projet/simple-webapp$ 
+    return 'I am very good, how aboutuser@PC12-SALLE1:~/projet/simple-webapp$ 
 
 if __name__ == "__main__":
     app.run()
